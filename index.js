@@ -1,3 +1,3 @@
-import { iconWebpack } from 'simple-icons/icons'
+import { iconWebpack, icon3m } from 'simple-icons/icons'
 
-console.log(iconWebpack)
+console.log(iconWebpack, icon3m)

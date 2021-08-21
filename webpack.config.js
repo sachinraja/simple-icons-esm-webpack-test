@@ -6,5 +6,5 @@ export default {
     path: path.resolve(process.cwd(), 'dist'),
     filename: 'bundle.js',
   },
-  mode: 'development',
+  mode: 'production',
 }
